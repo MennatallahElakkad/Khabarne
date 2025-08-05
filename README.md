@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chanzel
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Khabarni-
+>>>>>>> 57800d8a340d084e886b6128ab1b1753a6c89977
